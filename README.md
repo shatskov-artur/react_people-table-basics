@@ -27,3 +27,4 @@ Implement the `App` with 2 pages and ability to select a person in the table.
 - Open one more terminal and run tests with `npm test` to ensure your solution is correct.
 - Replace `<your_account>` with your Github username in the [DEMO LINK](https://<your_account>.github.io/react_people-table-basics/) and add it to the PR description.
 
+
